@@ -1,0 +1,2 @@
+# ci-template
+vue test
